@@ -1,0 +1,19 @@
+employee_key,employeeid,name,title,country,source,emp_norm
+1,2,Andrew Cencini,"Vice President, Sales",USA,access,andrew cencini
+2,2,Andrew Fuller,"Vice President, Sales",USA,sql,andrew fuller
+3,9,Anne Dodsworth,Sales Representative,UK,sql,anne dodsworth
+4,9,Anne Hellung-Larsen,Sales Representative,USA,access,anne hellung-larsen
+5,3,Jan Kotas,Sales Representative,USA,access,jan kotas
+6,3,Janet Leverling,Sales Representative,USA,sql,janet leverling
+7,8,Laura Callahan,Inside Sales Coordinator,USA,sql,laura callahan
+8,8,Laura Giussani,Sales Coordinator,USA,access,laura giussani
+9,4,Margaret Peacock,Sales Representative,USA,sql,margaret peacock
+10,4,Mariya Sergienko,Sales Representative,USA,access,mariya sergienko
+11,6,Michael Neipper,Sales Representative,USA,access,michael neipper
+12,6,Michael Suyama,Sales Representative,UK,sql,michael suyama
+13,1,Nancy Davolio,Sales Representative,USA,sql,nancy davolio
+14,1,Nancy Freehafer,Sales Representative,USA,access,nancy freehafer
+15,7,Robert King,Sales Representative,UK,sql,robert king
+16,7,Robert Zare,Sales Representative,USA,access,robert zare
+17,5,Steven Buchanan,Sales Manager,UK,sql,steven buchanan
+18,5,Steven Thorpe,Sales Manager,USA,access,steven thorpe

@@ -1,0 +1,10 @@
+employee_source_id,firstname,lastname,title,address,city,region,postalcode,country,notes,emp_norm
+1,Nancy,Freehafer,Sales Representative,123 1st Avenue,Seattle,WA,99999,USA,,nancy freehafer
+2,Andrew,Cencini,"Vice President, Sales",123 2nd Avenue,Bellevue,WA,99999,USA,"Joined the company as a sales representative, was promoted to sales manager and was then named vice president of sales.",andrew cencini
+3,Jan,Kotas,Sales Representative,123 3rd Avenue,Redmond,WA,99999,USA,Was hired as a sales associate and was promoted to sales representative.,jan kotas
+4,Mariya,Sergienko,Sales Representative,123 4th Avenue,Kirkland,WA,99999,USA,,mariya sergienko
+5,Steven,Thorpe,Sales Manager,123 5th Avenue,Seattle,WA,99999,USA,Joined the company as a sales representative and was promoted to sales manager.  Fluent in French.,steven thorpe
+6,Michael,Neipper,Sales Representative,123 6th Avenue,Redmond,WA,99999,USA,"Fluent in Japanese and can read and write French, Portuguese, and Spanish.",michael neipper
+7,Robert,Zare,Sales Representative,123 7th Avenue,Seattle,WA,99999,USA,,robert zare
+8,Laura,Giussani,Sales Coordinator,123 8th Avenue,Redmond,WA,99999,USA,Reads and writes French.,laura giussani
+9,Anne,Hellung-Larsen,Sales Representative,123 9th Avenue,Seattle,WA,99999,USA,Fluent in French and German.,anne hellung-larsen

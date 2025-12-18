@@ -1,0 +1,30 @@
+customer_source_id,companyname,contactname,address,city,region,postalcode,country,phone,fax,company_norm
+1,Company A,Anna Bedecs,123 1st Street,Seattle,WA,99999,USA,(123)555-0100,(123)555-0101,company a
+2,Company B,Antonio Gratacos Solsona,123 2nd Street,Boston,MA,99999,USA,(123)555-0100,(123)555-0101,company b
+3,Company C,Thomas Axen,123 3rd Street,Los Angelas,CA,99999,USA,(123)555-0100,(123)555-0101,company c
+4,Company D,Christina Lee,123 4th Street,New York,NY,99999,USA,(123)555-0100,(123)555-0101,company d
+5,Company E,Martin O’Donnell,123 5th Street,Minneapolis,MN,99999,USA,(123)555-0100,(123)555-0101,company e
+6,Company F,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,(123)555-0100,(123)555-0101,company f
+7,Company G,Ming-Yang Xie,123 7th Street,Boise,ID,99999,USA,(123)555-0100,(123)555-0101,company g
+8,Company H,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,(123)555-0100,(123)555-0101,company h
+9,Company I,Sven Mortensen,123 9th Street,Salt Lake City,UT,99999,USA,(123)555-0100,(123)555-0101,company i
+10,Company J,Roland Wacker,123 10th Street,Chicago,IL,99999,USA,(123)555-0100,(123)555-0101,company j
+11,Company K,Peter Krschne,123 11th Street,Miami,FL,99999,USA,(123)555-0100,(123)555-0101,company k
+12,Company L,John Edwards,123 12th Street,Las Vegas,NV,99999,USA,(123)555-0100,(123)555-0101,company l
+13,Company M,Andre Ludick,456 13th Street,Memphis,TN,99999,USA,(123)555-0100,(123)555-0101,company m
+14,Company N,Carlos Grilo,456 14th Street,Denver,CO,99999,USA,(123)555-0100,(123)555-0101,company n
+15,Company O,Helena Kupkova,456 15th Street,Honolulu,HI,99999,USA,(123)555-0100,(123)555-0101,company o
+16,Company P,Daniel Goldschmidt,456 16th Street,San Francisco,CA,99999,USA,(123)555-0100,(123)555-0101,company p
+17,Company Q,Jean Philippe Bagel,456 17th Street,Seattle,WA,99999,USA,(123)555-0100,(123)555-0101,company q
+18,Company R,Catherine Autier Miconi,456 18th Street,Boston,MA,99999,USA,(123)555-0100,(123)555-0101,company r
+19,Company S,Alexander Eggerer,789 19th Street,Los Angelas,CA,99999,USA,(123)555-0100,(123)555-0101,company s
+20,Company T,George Li,789 20th Street,New York,NY,99999,USA,(123)555-0100,(123)555-0101,company t
+21,Company U,Bernard Tham,789 21th Street,Minneapolis,MN,99999,USA,(123)555-0100,(123)555-0101,company u
+22,Company V,Luciana Ramos,789 22th Street,Milwaukee,WI,99999,USA,(123)555-0100,(123)555-0101,company v
+23,Company W,Michael Entin,789 23th Street,Portland,OR,99999,USA,(123)555-0100,(123)555-0101,company w
+24,Company X,Jonas Hasselberg,789 24th Street,Salt Lake City,UT,99999,USA,(123)555-0100,(123)555-0101,company x
+25,Company Y,John Rodman,789 25th Street,Chicago,IL,99999,USA,(123)555-0100,(123)555-0101,company y
+26,Company Z,Run Liu,789 26th Street,Miami,FL,99999,USA,(123)555-0100,(123)555-0101,company z
+27,Company AA,Karen Toh,789 27th Street,Las Vegas,NV,99999,USA,(123)555-0100,(123)555-0101,company aa
+28,Company BB,Amritansh Raghav,789 28th Street,Memphis,TN,99999,USA,(123)555-0100,(123)555-0101,company bb
+29,Company CC,Soo Jung Lee,789 29th Street,Denver,CO,99999,USA,(123)555-0100,(123)555-0101,company cc

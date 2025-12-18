@@ -1,0 +1,121 @@
+customer_key,customerid,companyname,country,city,region,source,company_norm
+1,ALFKI,Alfreds Futterkiste,Germany,Berlin,,sql,alfreds futterkiste
+2,ANATR,Ana Trujillo Emparedados y helados,Mexico,M?xico D.F.,,sql,ana trujillo emparedados y helados
+3,ANTON,Antonio Moreno Taquer?a,Mexico,M?xico D.F.,,sql,antonio moreno taquer?a
+4,AROUT,Around the Horn,UK,London,,sql,around the horn
+5,BSBEV,B's Beverages,UK,London,,sql,b's beverages
+6,BOLID,B?lido Comidas preparadas,Spain,Madrid,,sql,b?lido comidas preparadas
+7,BERGS,Berglunds snabbk?p,Sweden,Lule?,,sql,berglunds snabbk?p
+8,BLAUS,Blauer See Delikatessen,Germany,Mannheim,,sql,blauer see delikatessen
+9,BLONP,Blondesddsl p?re et fils,France,Strasbourg,,sql,blondesddsl p?re et fils
+10,BONAP,Bon app',France,Marseille,,sql,bon app'
+11,BOTTM,Bottom-Dollar Markets,Canada,Tsawassen,BC,sql,bottom-dollar markets
+12,CACTU,Cactus Comidas para llevar,Argentina,Buenos Aires,,sql,cactus comidas para llevar
+13,CENTC,Centro comercial Moctezuma,Mexico,M?xico D.F.,,sql,centro comercial moctezuma
+14,CHOPS,Chop-suey Chinese,Switzerland,Bern,,sql,chop-suey chinese
+15,COMMI,Com?rcio Mineiro,Brazil,Sao Paulo,SP,sql,com?rcio mineiro
+16,1,Company A,USA,Seattle,WA,access,company a
+17,27,Company AA,USA,Las Vegas,NV,access,company aa
+18,2,Company B,USA,Boston,MA,access,company b
+19,28,Company BB,USA,Memphis,TN,access,company bb
+20,3,Company C,USA,Los Angelas,CA,access,company c
+21,29,Company CC,USA,Denver,CO,access,company cc
+22,4,Company D,USA,New York,NY,access,company d
+23,5,Company E,USA,Minneapolis,MN,access,company e
+24,6,Company F,USA,Milwaukee,WI,access,company f
+25,7,Company G,USA,Boise,ID,access,company g
+26,8,Company H,USA,Portland,OR,access,company h
+27,9,Company I,USA,Salt Lake City,UT,access,company i
+28,10,Company J,USA,Chicago,IL,access,company j
+29,11,Company K,USA,Miami,FL,access,company k
+30,12,Company L,USA,Las Vegas,NV,access,company l
+31,13,Company M,USA,Memphis,TN,access,company m
+32,14,Company N,USA,Denver,CO,access,company n
+33,15,Company O,USA,Honolulu,HI,access,company o
+34,16,Company P,USA,San Francisco,CA,access,company p
+35,17,Company Q,USA,Seattle,WA,access,company q
+36,18,Company R,USA,Boston,MA,access,company r
+37,19,Company S,USA,Los Angelas,CA,access,company s
+38,20,Company T,USA,New York,NY,access,company t
+39,21,Company U,USA,Minneapolis,MN,access,company u
+40,22,Company V,USA,Milwaukee,WI,access,company v
+41,23,Company W,USA,Portland,OR,access,company w
+42,24,Company X,USA,Salt Lake City,UT,access,company x
+43,25,Company Y,USA,Chicago,IL,access,company y
+44,26,Company Z,USA,Miami,FL,access,company z
+45,CONSH,Consolidated Holdings,UK,London,,sql,consolidated holdings
+46,WANDK,Die Wandernde Kuh,Germany,Stuttgart,,sql,die wandernde kuh
+47,DRACD,Drachenblut Delikatessen,Germany,Aachen,,sql,drachenblut delikatessen
+48,DUMON,Du monde entier,France,Nantes,,sql,du monde entier
+49,EASTC,Eastern Connection,UK,London,,sql,eastern connection
+50,ERNSH,Ernst Handel,Austria,Graz,,sql,ernst handel
+51,FAMIA,Familia Arquibaldo,Brazil,Sao Paulo,SP,sql,familia arquibaldo
+52,FISSA,FISSA Fabrica Inter. Salchichas S.A.,Spain,Madrid,,sql,fissa fabrica inter. salchichas s.a.
+53,FOLIG,Folies gourmandes,France,Lille,,sql,folies gourmandes
+54,FOLKO,Folk och f? HB,Sweden,Br?cke,,sql,folk och f? hb
+55,FRANR,France restauration,France,Nantes,,sql,france restauration
+56,FRANS,Franchi S.p.A.,Italy,Torino,,sql,franchi s.p.a.
+57,FRANK,Frankenversand,Germany,M?nchen,,sql,frankenversand
+58,FURIB,Furia Bacalhau e Frutos do Mar,Portugal,Lisboa,,sql,furia bacalhau e frutos do mar
+59,GALED,Galer?a del gastr?nomo,Spain,Barcelona,,sql,galer?a del gastr?nomo
+60,GODOS,Godos Cocina T?pica,Spain,Sevilla,,sql,godos cocina t?pica
+61,GOURL,Gourmet Lanchonetes,Brazil,Campinas,SP,sql,gourmet lanchonetes
+62,GREAL,Great Lakes Food Market,USA,Eugene,OR,sql,great lakes food market
+63,GROSR,GROSELLA-Restaurante,Venezuela,Caracas,DF,sql,grosella-restaurante
+64,HANAR,Hanari Carnes,Brazil,Rio de Janeiro,RJ,sql,hanari carnes
+65,HILAA,HILARION-Abastos,Venezuela,San Crist?bal,T?chira,sql,hilarion-abastos
+66,HUNGC,Hungry Coyote Import Store,USA,Elgin,OR,sql,hungry coyote import store
+67,HUNGO,Hungry Owl All-Night Grocers,Ireland,Cork,Co. Cork,sql,hungry owl all-night grocers
+68,ISLAT,Island Trading,UK,Cowes,Isle of Wight,sql,island trading
+69,KOENE,K?niglich Essen,Germany,Brandenburg,,sql,k?niglich essen
+70,LACOR,La corne d'abondance,France,Versailles,,sql,la corne d'abondance
+71,LAMAI,La maison d'Asie,France,Toulouse,,sql,la maison d'asie
+72,LAUGB,Laughing Bacchus Wine Cellars,Canada,Vancouver,BC,sql,laughing bacchus wine cellars
+73,LAZYK,Lazy K Kountry Store,USA,Walla Walla,WA,sql,lazy k kountry store
+74,LEHMS,Lehmanns Marktstand,Germany,Frankfurt a.M.,,sql,lehmanns marktstand
+75,LETSS,Let's Stop N Shop,USA,San Francisco,CA,sql,let's stop n shop
+76,LILAS,LILA-Supermercado,Venezuela,Barquisimeto,Lara,sql,lila-supermercado
+77,LINOD,LINO-Delicateses,Venezuela,I. de Margarita,Nueva Esparta,sql,lino-delicateses
+78,LONEP,Lonesome Pine Restaurant,USA,Portland,OR,sql,lonesome pine restaurant
+79,MEREP,M?re Paillarde,Canada,Montr?al,Qu?bec,sql,m?re paillarde
+80,MAGAA,Magazzini Alimentari Riuniti,Italy,Bergamo,,sql,magazzini alimentari riuniti
+81,MAISD,Maison Dewey,Belgium,Bruxelles,,sql,maison dewey
+82,MORGK,Morgenstern Gesundkost,Germany,Leipzig,,sql,morgenstern gesundkost
+83,NORTS,North/South,UK,London,,sql,north/south
+84,OCEAN,Oc?ano Atl?ntico Ltda.,Argentina,Buenos Aires,,sql,oc?ano atl?ntico ltda.
+85,OLDWO,Old World Delicatessen,USA,Anchorage,AK,sql,old world delicatessen
+86,OTTIK,Ottilies K?seladen,Germany,K?ln,,sql,ottilies k?seladen
+87,PARIS,Paris sp?cialit?s,France,Paris,,sql,paris sp?cialit?s
+88,PERIC,Pericles Comidas cl?sicas,Mexico,M?xico D.F.,,sql,pericles comidas cl?sicas
+89,PICCO,Piccolo und mehr,Austria,Salzburg,,sql,piccolo und mehr
+90,PRINI,Princesa Isabel Vinhos,Portugal,Lisboa,,sql,princesa isabel vinhos
+91,QUEDE,Que Del?cia,Brazil,Rio de Janeiro,RJ,sql,que del?cia
+92,QUEEN,Queen Cozinha,Brazil,Sao Paulo,SP,sql,queen cozinha
+93,QUICK,QUICK-Stop,Germany,Cunewalde,,sql,quick-stop
+94,RANCH,Rancho grande,Argentina,Buenos Aires,,sql,rancho grande
+95,RATTC,Rattlesnake Canyon Grocery,USA,Albuquerque,NM,sql,rattlesnake canyon grocery
+96,REGGC,Reggiani Caseifici,Italy,Reggio Emilia,,sql,reggiani caseifici
+97,RICAR,Ricardo Adocicados,Brazil,Rio de Janeiro,RJ,sql,ricardo adocicados
+98,RICSU,Richter Supermarkt,Switzerland,Gen?ve,,sql,richter supermarkt
+99,ROMEY,Romero y tomillo,Spain,Madrid,,sql,romero y tomillo
+100,SANTG,Sant? Gourmet,Norway,Stavern,,sql,sant? gourmet
+101,SAVEA,Save-a-lot Markets,USA,Boise,ID,sql,save-a-lot markets
+102,SEVES,Seven Seas Imports,UK,London,,sql,seven seas imports
+103,SIMOB,Simons bistro,Denmark,Kobenhavn,,sql,simons bistro
+104,SPECD,Sp?cialit?s du monde,France,Paris,,sql,sp?cialit?s du monde
+105,SPLIR,Split Rail Beer & Ale,USA,Lander,WY,sql,split rail beer & ale
+106,SUPRD,Supr?mes d?lices,Belgium,Charleroi,,sql,supr?mes d?lices
+107,THEBI,The Big Cheese,USA,Portland,OR,sql,the big cheese
+108,THECR,The Cracker Box,USA,Butte,MT,sql,the cracker box
+109,TOMSP,Toms Spezialit?ten,Germany,M?nster,,sql,toms spezialit?ten
+110,TORTU,Tortuga Restaurante,Mexico,M?xico D.F.,,sql,tortuga restaurante
+111,TRADH,Tradi??o Hipermercados,Brazil,Sao Paulo,SP,sql,tradi??o hipermercados
+112,TRAIH,Trail's Head Gourmet Provisioners,USA,Kirkland,WA,sql,trail's head gourmet provisioners
+113,VAFFE,Vaffeljernet,Denmark,?rhus,,sql,vaffeljernet
+114,VICTE,Victuailles en stock,France,Lyon,,sql,victuailles en stock
+115,VINET,Vins et alcools Chevalier,France,Reims,,sql,vins et alcools chevalier
+116,WARTH,Wartian Herkku,Finland,Oulu,,sql,wartian herkku
+117,WELLI,Wellington Importadora,Brazil,Resende,SP,sql,wellington importadora
+118,WHITC,White Clover Markets,USA,Seattle,WA,sql,white clover markets
+119,WILMK,Wilman Kala,Finland,Helsinki,,sql,wilman kala
+120,WOLZA,Wolski  Zajazd,Poland,Warszawa,,sql,wolski zajazd
