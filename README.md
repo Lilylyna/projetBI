@@ -1,32 +1,38 @@
-Northwind Unified BI Pipeline
+# Northwind Unified BI Pipeline
 
-End-to-End Data Warehouse & 3D Analytics
+## End-to-End Data Warehouse & 3D Analytics
 
 This project implements a complete Business Intelligence (BI) solution designed to unify heterogeneous data sources from Microsoft Access (.accdb) and SQL Server using the Northwind database.
+
 Python is used as the orchestration layer to perform Extraction, Transformation, and Loading (ETL), followed by analytical processing and multidimensional visualization.
 
 The pipeline consolidates fragmented operational data into a Star Schema Data Warehouse, enabling reliable KPI computation and interactive 3D analytical exploration.
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
+
+```plaintext
 projetBI/
 ├── data/
-│ ├── raw/ # Staging area: raw CSV exports from Access & SQL Server
-│ ├── processed/ # Transformed and normalized datasets
-│ └── warehouse/ # Final Data Warehouse (Fact & Dimension tables)
-├── scripts/ # Python ETL and analytics pipeline
-│ ├── extract_data.py # Data extraction from SQL Server & │Microsoft Access
-│ ├── datawarehouse.py # Star Schema construction and revenue mapping
-│ ├── kpi_analysis.py # Computation of global business KPIs
-│ └── visualize_3d.py # Interactive 3D analytical dashboard
-├── figures/ # Static analytical visualizations (PNG)
-├── dashboard/ # Interactive HTML dashboard
-├── notebook
-│ ├── Dashboard_Analysis.ipynb
-│ ├──3d_dashboard.html # Intractive 3 dimensioanl Graph
-├── report # Word + PDF report
-├── video  
-├── venv # Optional but recomended for python scripts here
-└── README.md # Project documentation
+│   ├── raw/                # Staging area: raw CSV exports from Access & SQL Server
+│   ├── processed/          # Transformed and normalized datasets
+│   └── warehouse/          # Final Data Warehouse (Fact & Dimension tables)
+├── scripts/                # Python ETL and analytics pipeline
+│   ├── extract_data.py     # Data extraction from SQL Server & Microsoft Access
+│   ├── datawarehouse.py   # Star Schema construction and revenue mapping
+│   ├── kpi_analysis.py     # Computation of global business KPIs
+│   └── visualize_warehouse.py # Interactive 3D analytical dashboard
+├── figures/                # Static analytical visualizations (PNG)
+├── dashboard/              # Interactive HTML dashboard
+├── notebook/
+│   ├── Dashboard_Analysis.ipynb
+│   └── 3d_dashboard.html   # Interactive 3D multidimensional graph
+├── report/                 # Word + PDF project report
+├── video/                  # Presentation video (screen + voice)
+├── venv/                   # Optional Python virtual environment
+└── README.md               # Project documentation
+
 
 🛠️ Installation & Requirements
 
@@ -136,3 +142,4 @@ Confirm unidecode is installed and scripts are executed in a UTF-8 compatible te
 
 Business Intelligence Project — 2024/2025
 By - Korichi Lyna Racha
+```
