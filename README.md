@@ -65,13 +65,18 @@ pip install pandas pyodbc unidecode plotly matplotlib seaborn
 
 **_🚀Work Flow_**
 Run the pipeline in the following order:
+**note: when developing the results of data will be stored in directory "C:\Users\MY Laptop\Documents\projetBI\data"**
+**And note that the GitHub will have the finished results of the solution**
+
 
 **1. Extraction**
 python scripts/extract_data.py
 
 Extracts data into data/raw/.
 
+
 **2. Transformation & Loading**
+python scripts/transform_access.py
 python scripts/datawarehouse.py
 
 Cleans data, resolves duplicates, and builds the Star Schema in data/warehouse/.
